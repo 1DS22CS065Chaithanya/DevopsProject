@@ -10,7 +10,7 @@
   <packaging>war</packaging>
 
   <name>DevopsProject Maven Webapp</name>
-  <!-- FIXME change it to the project's wte -->
+  <!-- FIXME change it to the project's  -->
   <url>http://www.example.com</url>
 
   <properties>
